@@ -119,7 +119,7 @@ public class CustomProcessor extends AbstractProcessor {
             this.packageName = packageName;
             this.className = subjectName;
             this.builder = TypeSpec.classBuilder(subjectName).addModifiers(Modifier.PUBLIC)
-                    .superclass(ClassName.bestGuess("InvokeBase"));
+                    .superclass(ClassName.bestGuess("com.td.ca.annotation_compiler.InvokeBase"));
         }
 
         // 生成反射方法

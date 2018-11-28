@@ -5,8 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/SubjectA.iml" filepath="$PROJECT_DIR$/SubjectA.iml" />
       <module fileurl="file://$PROJECT_DIR$/annotation_compiler/annotation_compiler.iml" filepath="$PROJECT_DIR$/annotation_compiler/annotation_compiler.iml" />
       <module fileurl="file://$PROJECT_DIR$/asubject/asubject.iml" filepath="$PROJECT_DIR$/asubject/asubject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/c-annotations/c-annotations.iml" filepath="$PROJECT_DIR$/c-annotations/c-annotations.iml" />
-      <module fileurl="file://$PROJECT_DIR$/c-compiler/c-compiler.iml" filepath="$PROJECT_DIR$/c-compiler/c-compiler.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib-android-test/lib-android-test.iml" filepath="$PROJECT_DIR$/lib-android-test/lib-android-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib-java-test/lib-java-test.iml" filepath="$PROJECT_DIR$/lib-java-test/lib-java-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
