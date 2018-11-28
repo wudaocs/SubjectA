@@ -65,3 +65,8 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+annotation_compiler/.DS_Store
+main/.DS_Store
+module_1/.DS_Store
+lib-android-test/.DS_Store
+.DS_Store

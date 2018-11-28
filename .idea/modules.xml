@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SubjectA.iml" filepath="$PROJECT_DIR$/SubjectA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation_compiler/annotation_compiler.iml" filepath="$PROJECT_DIR$/annotation_compiler/annotation_compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asubject/asubject.iml" filepath="$PROJECT_DIR$/asubject/asubject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c-annotations/c-annotations.iml" filepath="$PROJECT_DIR$/c-annotations/c-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c-compiler/c-compiler.iml" filepath="$PROJECT_DIR$/c-compiler/c-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-android-test/lib-android-test.iml" filepath="$PROJECT_DIR$/lib-android-test/lib-android-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-java-test/lib-java-test.iml" filepath="$PROJECT_DIR$/lib-java-test/lib-java-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module_1/module_1.iml" filepath="$PROJECT_DIR$/module_1/module_1.iml" />
+    </modules>
+  </component>
+</project>

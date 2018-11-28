@@ -1,0 +1,1 @@
+include ':main', ':c-compiler', ':annotation_compiler', ':c-annotations', ':lib-java-test', ':lib-android-test', ':module_1', ':asubject'
